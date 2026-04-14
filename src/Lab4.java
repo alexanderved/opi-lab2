@@ -19,5 +19,4 @@ public class Lab4 {
   b.x6(c);
   }
 }
-previous : 10
-previous : 13
+previous : 14
